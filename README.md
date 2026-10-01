@@ -1,4 +1,4 @@
-# ProactiveIntelligence
+# Proactive Intelligence
 
 Everything about the project in one file: overview, architecture, setup and tools used.
 
