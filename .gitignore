@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/specs
+/.github
+/.specify
+/.vs
+/.vscode
+/scripts
+/sensors
+/src/ProactiveIntelligence.CoreAgent/bin/Debug/net8.0
+/src/ProactiveIntelligence.CoreAgent/obj
+/src/ProactiveIntelligence.McpServer/bin/Debug/net8.0
+/src/ProactiveIntelligence.McpServer/obj
