@@ -35,7 +35,7 @@ ProactiveIntelligence is a multi-service agentic AI system that:
          │                          │ Npgsql (read-only)
          │                          ▼
          │                 ┌──────────────────────────┐
-         │                 │  PostgreSQL DMSDB :5432  │
+         │                 │  PostgreSQL    DB :5432  │
          │                 │  28 tables, read-only    │
          │                 └──────────────────────────┘
          │
