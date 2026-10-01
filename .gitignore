@@ -13,3 +13,5 @@
 /src/ProactiveIntelligence.CoreAgent/obj
 /src/ProactiveIntelligence.McpServer/bin/Debug/net8.0
 /src/ProactiveIntelligence.McpServer/obj
+/AGENTS.md
+/PROJECT.md
