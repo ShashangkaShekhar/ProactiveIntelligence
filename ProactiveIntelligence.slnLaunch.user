@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\ProactiveIntelligence.McpServer\\ProactiveIntelligence.McpServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\ProactiveIntelligence.CoreAgent\\ProactiveIntelligence.CoreAgent.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

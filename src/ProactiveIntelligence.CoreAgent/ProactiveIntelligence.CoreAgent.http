@@ -1,0 +1,6 @@
+@ProactiveIntelligence.CoreAgent_HostAddress = http://localhost:5042
+
+GET {{ProactiveIntelligence.CoreAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

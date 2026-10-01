@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ProactiveIntelligence.CoreAgent/ProactiveIntelligence.CoreAgent.csproj" />
+    <Project Path="src/ProactiveIntelligence.McpServer/ProactiveIntelligence.McpServer.csproj" />
+  </Folder>
+</Solution>

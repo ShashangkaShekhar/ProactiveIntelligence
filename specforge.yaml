@@ -1,0 +1,23 @@
+﻿version: "1.0"
+
+gates:
+  - name: "Service Boundaries"
+    type: "architecture"
+    rules:
+      - "001-core-agent must not reference Npgsql"
+      - "002-mcp-server must not reference Microsoft.Extensions.AI"
+      - "003-delivery must not reference Npgsql or MCP SDK"
+      - "004-scheduler must not reference Npgsql or MCP SDK"
+    severity: "error"
+
+  - name: "Security"
+    type: "security"
+    rules:
+      - "No hardcoded credentials"
+      - "run_sql must reject non-SELECT"
+    severity: "error"
+
+  - name: "Test Coverage"
+    type: "coverage"
+    threshold: 80
+    severity: "error"
