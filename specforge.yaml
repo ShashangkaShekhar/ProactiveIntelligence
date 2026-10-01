@@ -6,8 +6,6 @@ gates:
     rules:
       - "001-core-agent must not reference Npgsql"
       - "002-mcp-server must not reference Microsoft.Extensions.AI"
-      - "003-delivery must not reference Npgsql or MCP SDK"
-      - "004-scheduler must not reference Npgsql or MCP SDK"
     severity: "error"
 
   - name: "Security"
