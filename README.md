@@ -44,3 +44,9 @@ ProactiveIntelligence is a multi-service agentic AI system that:
                        │  qwen2.5:7b (CUDA)       │
                        └──────────────────────────┘
 ```
+
+## 3. Output
+
+<img width="1483" height="803" alt="image" src="https://github.com/user-attachments/assets/8848d0c8-fc6e-4ad0-a3ff-ab4acb8a99e8" />
+
+
