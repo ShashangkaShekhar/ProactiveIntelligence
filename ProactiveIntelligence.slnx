@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/db/">
+    <File Path="C:/Users/Shashangka/Documents/ProactiveIntelligence.sql" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/ProactiveIntelligence.CoreAgent/ProactiveIntelligence.CoreAgent.csproj" />
     <Project Path="src/ProactiveIntelligence.McpServer/ProactiveIntelligence.McpServer.csproj" />
